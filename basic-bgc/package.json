@@ -1,0 +1,10 @@
+{
+  "name": "wineforawedding",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-sass": "~1.3.3",
+    "gulp-notify": "*"
+  }
+}
