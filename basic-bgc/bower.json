@@ -1,0 +1,8 @@
+{
+    "name": "wineforawedding",
+    "dependencies": {
+        "bootstrap-sass": "*",
+        "jquery-zoom": "*",
+        "select2": "*"
+    }
+}
